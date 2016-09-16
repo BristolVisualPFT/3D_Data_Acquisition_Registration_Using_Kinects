@@ -1,6 +1,4 @@
 -----------------------------------------------------------------
-# 3D Data Acquisiton and Registration using Multiple Kinects V2
+# 3D Data Acquisiton and Registration using Multiple Kinects #
 -----------------------------------------------------------------
-## Introduction
-
-This is an open source 3D data acquisition and registration system presented in 
+This is an open source implementaion of 3D data acquisition and registration system presented in 
