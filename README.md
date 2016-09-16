@@ -33,7 +33,7 @@ This code is licensed under MIT license, which mean you can modify and use for a
 
 
 ##Do You Need Help?
-The system methodology has been described in our paper [1]. But, if you have any question or suggestion, please feel free to contact me by my email vahid [dot] soleimani [at] bristol [dot] ac [uk].
+The system methodology has been described in our paper [1]. But, if you have any question or suggestion, please feel free to contact me by email: vahid [dot] soleimani [at] bristol [dot] ac [uk]
 
 
 ##Published Paper
