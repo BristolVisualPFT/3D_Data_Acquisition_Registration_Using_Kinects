@@ -42,4 +42,4 @@ The system methodology has been described in our paper [1]. But, if you have any
 # Paper and Referencing
 If you use this code in any form for your research, kindly cite the following paper.
 
-V. Soleimani, M. Mirmehdi, S. Hannuna, M. Camplani, "3D Data Acquisition and Registration Using Two Opposing Kinects", International Conference on 3D Vision, Stanford, USA, October 2016.
+V. Soleimani, M. Mirmehdi, D.Damen, S. Hannuna, M. Camplani, "3D Data Acquisition and Registration Using Two Opposing Kinects", International Conference on 3D Vision, Stanford, USA, October 2016.
