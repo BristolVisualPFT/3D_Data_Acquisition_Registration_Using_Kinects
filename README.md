@@ -12,7 +12,7 @@ This is a Windows form-based application and completely implemented in C++ using
 
 
 ##[Double Opposing Kinect Data Acquisition and Registration](https://github.com/BristolVisualPFT/Double_Kinect_3D_Data_Acquisition_Registration/tree/master/Double_Kinect_Data_Acquisition_Registration)
-This system has been developed to calibrate two opposing Kinects V2 using an optical approach and register their point clouds to a joint space [1]. It conrains calibration, acquisition and registeration parts and has been implemented in C++ (Microsft Visual Studio 2012) and Matlab. We have also used third party libraries exaplined in Dependencies section.
+This system has been developed to calibrate two opposing Kinects V2 RGBD sensors using an optical approach and register their point clouds to a joint space [1]. It conrains calibration, acquisition and registeration parts and has been implemented in C++ (Microsft Visual Studio 2012) and Matlab. We have also used third party libraries exaplined in Dependencies section.
 
 Unlike other approaches which use  Kinect for Windows SDK built-in functions and can generate RGB point cloud only for on-line streams (Kinect deends to be connected), our system is able to generate and align RGB point clouds off-line, using pre-recorded RGB and depth data frames. This allows to reconstruct RGBD point cloud of a dynamic object at consistant 30fps, which could be important for sensitive applications such as respiratory monitoring.
 
@@ -36,7 +36,7 @@ This code is licensed under MIT license, which mean you can modify and use for a
 The system methodology has been described in our paper [1]. But, if you have any question or suggestion, please feel free to contact me by my email vahid [dot] soleimani [at] bristol [dot] ac [uk].
 
 
-##Paper and Referencing
-If you use this code in any form for your research, kindly cite the following paper.
+##Published Paper
+If you use any form of this source code, kindly cite the following paper.
 
 [1] V. Soleimani, M. Mirmehdi, D.Damen, S. Hannuna, M. Camplani, "3D Data Acquisition and Registration Using Two Opposing Kinects", International Conference on 3D Vision, Stanford, USA, October 2016.
