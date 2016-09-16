@@ -14,9 +14,8 @@ This is a windows form based application and completely implemented in C++ using
 ##[Double Opposing Kinect Data Acquisition and Registration](https://github.com/BristolVisualPFT/Double_Kinect_3D_Data_Acquisition_Registration/tree/master/Double_Kinect_Data_Acquisition_Registration)
 This system has been developed to calibrate two opposing Kinects V2 using an optical approach and register their point clouds to a joint space [1]. It conrains calibration, acquisition and registeration parts and has been implemented in C++ (Microsft Visual Studio 2012) and Matlab. We have also used third party libraries exaplined in Dependencies section.
 
-Unlike other approaches which use  Kinect for Windows SDK built-in functions and are able to generate RGB point cloud only for on-line streams (Kinect deends to be connected), our system is able to generate and align RGB point clouds off-line using pre-recorded RGB and depth data frames. This allows to reconstruct RGBD point cloud of a dynamic object at consistant 30fps, which could be important for sensitive applications such as respiratory monitoring.
+Unlike other approaches which use  Kinect for Windows SDK built-in functions and can generate RGB point cloud only for on-line streams (Kinect deends to be connected), our system is able to generate and align RGB point clouds off-line, using pre-recorded RGB and depth data frames. This allows to reconstruct RGBD point cloud of a dynamic object at consistant 30fps, which could be important for sensitive applications such as respiratory monitoring.
 
-
- According to Kinect for Windows SDK 2.0 individual machines are required for each separate Kinect V2 device. 
-Although libfreenect2 library allows to connect two device to a powerful machine with separate USB3 buses, it decreases the frame  rate and it does not also provide the body skeleton data data, which could be necassry for some applications.
+According to Kinect for Windows SDK 2.0, individual machines are required for each separate Kinect V2 device. 
+Although libfreenect2 allows to connect two devices to a powerful machine with separate USB3 buses, it decreases the frame  rate and it does not also provide the body skeleton data data, which could be necassry for some applications.
 
