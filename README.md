@@ -19,6 +19,8 @@ Unlike other approaches which use  Kinect for Windows SDK built-in functions and
 According to Kinect for Windows SDK 2.0, individual machines are required for each separate Kinect V2 device. 
 Although libfreenect2 allows to connect two devices to a powerful machine with separate USB3 buses, it decreases the frame  rate and it does not also provide the body skeleton data data, which could be necassry for some applications. Therefore, the system requires two Windows machine which has been localy connected via TCP/IP protocol. Machine system times are synchronised using NTP timing protocol.
 
-# Requirements
-
+# Requirements and Depedencies
+The system require the following equipments and libraries to perform:
++ Two KinectV2
++ Two KinectV2-compatible Windows machines
 
