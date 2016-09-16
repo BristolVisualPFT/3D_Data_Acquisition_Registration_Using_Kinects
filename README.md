@@ -17,5 +17,8 @@ This system has been developed to calibrate two opposing Kinects V2 using an opt
 Unlike other approaches which use  Kinect for Windows SDK built-in functions and can generate RGB point cloud only for on-line streams (Kinect deends to be connected), our system is able to generate and align RGB point clouds off-line, using pre-recorded RGB and depth data frames. This allows to reconstruct RGBD point cloud of a dynamic object at consistant 30fps, which could be important for sensitive applications such as respiratory monitoring.
 
 According to Kinect for Windows SDK 2.0, individual machines are required for each separate Kinect V2 device. 
-Although libfreenect2 allows to connect two devices to a powerful machine with separate USB3 buses, it decreases the frame  rate and it does not also provide the body skeleton data data, which could be necassry for some applications.
+Although libfreenect2 allows to connect two devices to a powerful machine with separate USB3 buses, it decreases the frame  rate and it does not also provide the body skeleton data data, which could be necassry for some applications. Therefore, the system requires two Windows machine which has been localy connected via TCP/IP protocol. Machine system times are synchronised using NTP timing protocol.
+
+# Requirements
+
 
