@@ -28,7 +28,10 @@ The system require the following equipments and libraries to perform:
 + [Intel Threading Building Blocks](https://www.threadingbuildingblocks.org/software-release/tbb4320140724oss) (GPLv2 License)
 + [OpenCV](https://github.com/opencv/opencv) (BSD License)
 
+# License
+This code is licensed under MIT license, which mean you can modify and use for any purposes. But, if you use this code for your research, kindly cite the following paper.
 
+V. Soleimani, M. Mirmehdi, S. Hannuna, M. Camplani, "3D Data Acquisition and Registration Using Two Opposing Kinects", International Conference on 3D Vision, Stanford, USA, October 2016.
 
 # Do You Need Help?
-Please feel free to contact me by vahid[dot]soleimani[at]bristol[dot]ac[uk]
+The system methodology has been described in our paper [1]. But, if you have any question or suggestion, please feel free to contact me by my email vahid [dot] soleimani [at] bristol [dot] ac [uk].
