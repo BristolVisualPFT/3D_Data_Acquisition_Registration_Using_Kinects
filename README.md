@@ -7,6 +7,6 @@ This is an open source implementaion of "3D data acquisition and registration us
 
 To make the users life easier, two source codes are released:
 + [Single Kinect Acquisition:](https://github.com/BristolVisualPFT/Double_Kinect_3D_Data_Acquisition_Registration/tree/master/Single_Kinect_Data_Acquisition) To be used for capturing data by a single Kinect,
-+ [Double opposing Kinects Acquisition and Registration:]() To apply two opposing Kinects and register two RGBD point cloud into a joint coordinate system.
++ [Double opposing Kinects Acquisition and Registration:]() To apply two opposing Kinects and register their RGBD point clouds into a joint coordinate system.
 
 
