@@ -7,11 +7,11 @@ This is an open source implementaion of "3D data acquisition and registration us
 
 To make the users life easier, two source codes adapted to be used with a single Kinect or double Kinect configurations.
 
-##[Single Kinect Data Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Two_Opposing_Kinects/tree/master/Single_Kinect_Data_Acquisition)
+##[Single Kinect Data Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Single_Kinect)
 This is a Windows form-based application and completely implemented in C++ using Microsft Visual Studio 2012. We have also used third party libraries which are exaplined in Dependencies section. This application is able to acquire, visualise (on-line) and record RGB, depth and skeleton data frames at 30fps and provide their corresponding metadata for their synchronization. The code, and the data types and specifications have been explained in the related sub-repository.
 
 
-##[Double Opposing Kinect Data Acquisition and Registration](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Two_Opposing_Kinects/tree/master/Double_Kinect_Data_Acquisition_Registration)
+##[Double Opposing Kinect Data Acquisition and Registration](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects)
 This system has been developed to calibrate two opposing Kinects V2 RGBD sensors using an optical approach and register their point clouds to a joint space [1]. It conrains calibration, acquisition and registeration parts and has been implemented in C++ (Microsft Visual Studio 2012) and Matlab. We have also used third party libraries exaplined in Dependencies section.
 
 Unlike other approaches which use  Kinect for Windows SDK built-in functions and can generate RGB point cloud only for on-line streams (Kinect deends to be connected), our system is able to generate and align RGB point clouds off-line, using pre-recorded RGB and depth data frames. This allows to reconstruct RGBD point cloud of a dynamic object at consistant 30fps, which could be important for sensitive applications such as respiratory monitoring.
