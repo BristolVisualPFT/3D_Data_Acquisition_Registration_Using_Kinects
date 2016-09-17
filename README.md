@@ -5,7 +5,7 @@
 ##Introduction
 This is an open source implementation of **"3D data acquisition and registration using two opposing Kinects"** [1]. This system has been designed for acquiring and recording RGB, depth and skeleton data frames of two Kinects and register their RGB point cloud into a joint coordinate system.
 
-To make the users life easier, two source codes adapted to be used with a single Kinect or double Kinect configurations.
+To make the users life easier, we have adapted the code for either a single Kinct configuration or the double Kinect configurations.
 
 ##[Single Kinect Data Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Single_Kinect)
 This is a Windows form-based application and completely implemented in C++ using Microsoft Visual Studio 2012. We have also used third party libraries which are explained in Dependencies section. This application is able to acquire, visualise (on-line) and record RGB, depth and skeleton data frames at 30fps and provide their corresponding metadata for their synchronization. The code, compilation instructions, and the data types and their specifications have been explained in the related sub-repository.
