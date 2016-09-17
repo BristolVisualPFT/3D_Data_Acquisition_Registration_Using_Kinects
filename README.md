@@ -20,7 +20,7 @@ According to Kinect for Windows SDK 2.0, individual machines are required for ea
 Although libfreenect2 allows to connect two devices to a powerful machine with separate USB3 buses, it decreases the frame  rate and it does not also provide the body skeleton data data, which could be necassry for some applications. Therefore, the system uses two Windows machine which has been localy connected via TCP/IP protocol. Machines system time are synchronised using NTP timing protocol.
 
 ##Depedencies
-The system require the following equipments and libraries to perform:
+The system requires the following equipments and libraries to perform:
 + [Kinect for Windows SDK 2.0](https://www.microsoft.com/en-gb/download/details.aspx?id=44561)
 + [Intel Threading Building Blocks](https://www.threadingbuildingblocks.org/software-release/tbb4320140724oss)
 + [OpenCV](https://github.com/opencv/opencv)
@@ -36,7 +36,7 @@ This code is licensed under MIT license, which mean you can modify and use for a
 The system methodology has been described in our paper [1]. But, if you have any question or suggestion, please feel free to contact me by email: vahid [dot] soleimani [at] bristol [dot] ac [uk]
 
 
-##Published Paper
+##Publication
 If you use any form of this source code, kindly cite the following paper.
 
 [1] V. Soleimani, M. Mirmehdi, D.Damen, S. Hannuna, M. Camplani, "3D Data Acquisition and Registration Using Two Opposing Kinects", International Conference on 3D Vision, Stanford, USA, October 2016.
