@@ -2,10 +2,12 @@
 #Single Kinect Data Acquisition
 -------------------------------------
 
-This is a Windows form-based application and completely implemented in C++ using Microsoft Visual Studio 2012. We have also used third party libraries which are explained in Dependencies section. This application is able to acquire, visualise (on-line) and record RGB, depth and skeleton data frames at 30fps and provide their corresponding Meta data which can be used to synchronise them. The code, compilation instructions, and the data types and their specifications have been explained in the related sub-repository.
-
+This application is able to acquire, visualise (on-line) and record RGB, depth and skeleton data frames at 30fps and provide their corresponding Meta data which can be used to synchronise them. It is a Windows form-based application and completely implemented in C++ using Microsoft Visual Studio 2012. We have also used third party libraries which are explained in Dependencies section.
+ 
 If you use any form of this source code in your research, kindly cite [1].
 
+##How does it work?
+The required hardware and software resources, necessary libraries and their dependencies establishment, the application specification and details and format of its output data are described [here]((https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/files/489895/How_it_works.pdf)).
 
 ##Dependencies
 The system requires the following libraries to perform:
