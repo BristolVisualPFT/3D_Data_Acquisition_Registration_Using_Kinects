@@ -15,12 +15,9 @@ If you use any form of this source code in your research, kindly cite [1].
 The required hardware and software resources, necessary libraries and their dependencies establishment, the application specification and details, and format of its output data are described in:
 
 
-**compilation_running_directions.pdf**
+                                            **compilation_running_directions.pdf**
 [![ttt](https://cloud.githubusercontent.com/assets/22081195/18800775/c51dcf08-81d6-11e6-982c-01dd27fd067b.png)](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/files/489895/How_it_works.pdf)
 
-<p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/22081195/18800775/c51dcf08-81d6-11e6-982c-01dd27fd067b.png" width=800>
-</p>
 
 
 ##Dependencies
