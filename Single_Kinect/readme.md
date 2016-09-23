@@ -17,7 +17,7 @@ The required hardware and software resources, necessary libraries and their depe
 [**compilation_running_directions.pdf**](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/files/489895/How_it_works.pdf)
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/22081195/18800775/c51dcf08-81d6-11e6-982c-01dd27fd067b.png" width=300>
+  <img src="https://cloud.githubusercontent.com/assets/22081195/18800775/c51dcf08-81d6-11e6-982c-01dd27fd067b.png" width=800>
 </p>
 
 
