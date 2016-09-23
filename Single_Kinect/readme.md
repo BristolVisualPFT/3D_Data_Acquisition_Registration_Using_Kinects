@@ -9,7 +9,7 @@ If you use any form of this source code in your research, kindly cite [1].
 ##How does it work?
 The required hardware and software resources, necessary libraries and their dependencies establishment, the application specification and details and format of its output data are described in:
 
-[How does it work?](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/files/489895/How_it_works.pdf).
+[How does it work?](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/files/489895/How_it_works.pdf)
 
 ##Dependencies
 The system requires the following libraries to perform:
