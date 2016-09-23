@@ -13,7 +13,7 @@ To make the users life easier, we have adapted the code for either a single Kinc
 If you use any form of this source code in your research, kindly cite [1].
 
 ##[Single Kinect Data Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Single_Kinect)
-This application is able to acquire, visualise (on-line) and record RGB, depth and skeleton data frames at 30fps and provides their Meta data which can be used to synchronise RGB, depth and body data. This is a Windows form-based application and completely implemented in C++ using Microsoft Visual Studio 2012. We have used third party libraries which are explained in Dependencies section. The code, compilation instructions, and the data types and their specifications have been explained in the related sub-repository.
+This application is able to acquire, visualise (on-line) and record RGB, depth and skeleton data frames at 30fps and provides their Meta data which can be used to synchronise RGB, depth and body data. This is a Windows form-based application and completely implemented in C++ using Microsoft Visual Studio 2012. We have used third party libraries which are explained in **Dependencies** section. The code, compilation instructions, and the data types and their specifications have been explained in the related sub-repository.
 
 
 ##[Double Opposing Kinect Data Acquisition and Registration](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects)
