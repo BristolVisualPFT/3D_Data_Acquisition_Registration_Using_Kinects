@@ -2,6 +2,14 @@
 #Single Kinect Data Acquisition
 -------------------------------------
 
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/22081195/18792882/3f01c72e-81b0-11e6-864e-0967ac98120f.png" width=600>
+</p>
+
+
+![rgb_depth_skel_sel](https://cloud.githubusercontent.com/assets/22081195/18792861/20a91bf6-81b0-11e6-9d02-8df6653204bd.png)
+
+
 This application is able to acquire, visualise (on-line) and record RGB, depth and skeleton data frames at 30fps and provide their corresponding Meta data which can be used to synchronise them. It is a Windows form-based application and completely implemented in C++ using Microsoft Visual Studio 2012. We have also used third party libraries which are explained in Dependencies section.
  
 If you use any form of this source code in your research, kindly cite [1].
