@@ -9,7 +9,7 @@ This application is able to acquire, visualise (on-line) and record RGB, depth a
 If you use any form of this source code in your research, kindly cite [1].
 
 ##Compilation and Running
-The required hardware and software resources, necessary libraries and their dependencies establishment, the application specification and details and format of its output data are described in:
+The required hardware and software resources, necessary libraries and their dependencies establishment, the application specification and details, and format of its output data are described in:
 
 [**compilation_running_directions.pdf**](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/files/489895/How_it_works.pdf)
 <p align="center">
