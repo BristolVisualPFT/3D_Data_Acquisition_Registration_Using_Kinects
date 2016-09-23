@@ -22,7 +22,7 @@ According to Kinect for Windows SDK 2.0, individual machines are required for ea
 Although libfreenect2 allows to connect two devices to a powerful machine with separate USB3 buses, it decreases the frame rate and it does not also provide the body skeleton data, which could be necessary for some applications. Therefore, the system uses two Windows machine which has been locally connected via TCP/IP protocol. Machines system time are synchronised using NTP.
 
 ##Dependencies
-The system requires the following equipment and libraries to perform:
+The system requires the following libraries to perform:
 + [Kinect for Windows SDK 2.0](https://www.microsoft.com/en-gb/download/details.aspx?id=44561)
 + [Intel Threading Building Blocks](https://www.threadingbuildingblocks.org/software-release/tbb4320140724oss)
 + [OpenCV](https://github.com/opencv/opencv)
