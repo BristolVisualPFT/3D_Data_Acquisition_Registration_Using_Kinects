@@ -1,5 +1,5 @@
 -----------------------------------------------------------------
-#3D Data Acquisition and Registration using Two Kinects#
+#3D Data Acquisition and Registration using Opposing Kinects#
 -----------------------------------------------------------------
 
 ##Introduction
