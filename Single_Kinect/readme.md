@@ -1,5 +1,5 @@
 -------------------------------------
-#Single Kinect Data Acquisition
+#Single Kinect Data Acquisition 
 -------------------------------------
 ![rgb_depth_skel_sel](https://cloud.githubusercontent.com/assets/22081195/18792861/20a91bf6-81b0-11e6-9d02-8df6653204bd.png)
 
