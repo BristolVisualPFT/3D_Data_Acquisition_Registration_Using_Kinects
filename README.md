@@ -2,7 +2,7 @@
 #3D Data Acquisition and Registration using Opposing Kinects#
 -----------------------------------------------------------------
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/22081195/18790839/43a7d820-81a8-11e6-9bf7-b3090d08a83f.gif" width=600>
+  <img src="https://cloud.githubusercontent.com/assets/22081195/18795655/7956496a-81bd-11e6-877b-8082c21ae4f2.gif" width=600>
 </p>
 
 ##Introduction
