@@ -1,6 +1,9 @@
 -----------------------------------------------------------------
 #3D Data Acquisition and Registration using Opposing Kinects#
 -----------------------------------------------------------------
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/22081195/18790839/43a7d820-81a8-11e6-9bf7-b3090d08a83f.gif">
+</p>
 
 ##Introduction
 This is an open source implementation of **"3D data acquisition and registration using two opposing Kinects"** [1]. This system has been designed for acquiring and recording RGB, depth and skeleton data frames of two Kinects, and registering their RGB point cloud into a joint coordinate system.
