@@ -1,12 +1,6 @@
 -------------------------------------
 #Single Kinect Data Acquisition
 -------------------------------------
-
-<p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/22081195/18792882/3f01c72e-81b0-11e6-864e-0967ac98120f.png" width=600>
-</p>
-
-
 ![rgb_depth_skel_sel](https://cloud.githubusercontent.com/assets/22081195/18792861/20a91bf6-81b0-11e6-9d02-8df6653204bd.png)
 
 
@@ -18,6 +12,10 @@ If you use any form of this source code in your research, kindly cite [1].
 The required hardware and software resources, necessary libraries and their dependencies establishment, the application specification and details and format of its output data are described in:
 
 [How does it work?](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/files/489895/How_it_works.pdf)
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/22081195/18792882/3f01c72e-81b0-11e6-864e-0967ac98120f.png" width=100>
+</p>
+
 
 ##Dependencies
 The system requires the following libraries to perform:
