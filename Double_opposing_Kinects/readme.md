@@ -3,7 +3,7 @@
 -----------------------------------------------
 
 ##Introduction
-This system has been developed to calibrate two opposing Kinects V2 RGBD sensors using an optical approach and register their point clouds to a joint space [1]. It contains calibration, acquisition and registration parts and has been implemented in C++ (Microsoft Visual Studio 2012) and Matlab. We have also used third party libraries explained in Dependencies section. Compilation instructions and directions have been mentioned in the related sub-repository.
+This system has been developed to calibrate two opposing Kinects V2 RGBD sensors using an optical approach and register their point clouds to a joint space [1]. It contains calibration, acquisition and registration parts and has been implemented in C++ (Microsoft Visual Studio 2012) and Matlab. We have also used third party libraries explained in **Hardware and Software Requirements** section. Compilation instructions and directions have been mentioned in the related sub-repository.
 
 Unlike other approaches which use Kinect SDK built-in functions and can generate RGB point cloud only for on-line streams (it means Kinect needs to be connected!), our system is able to generate and align RGB point clouds off-line, using pre-recorded RGB and depth data frames. This allows to reconstruct RGBD point cloud of a dynamic object at consistent 30fps, which could be important for sensitive applications, e.g. medical recordings.
 
