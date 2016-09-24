@@ -1,5 +1,5 @@
 -----------------------------------------------
-#Data Acquisition and Registration Using Two Opposing Kinects
+#3D Data Acquisition and Registration Using Two Opposing Kinects
 -----------------------------------------------
 This system is applying two opposing Kinects to acquite 3D data and register then in a joint coordinate system.
 
