@@ -1,5 +1,5 @@
 -----------------------------------------------------------------
-#3D Data Acquisition and Registration using Kinects V2#
+#3D Data Acquisition and Registration using Kinect RGBD Sensors#
 -----------------------------------------------------------------
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/22081195/18795655/7956496a-81bd-11e6-877b-8082c21ae4f2.gif" width=600>
