@@ -10,7 +10,7 @@ Unlike other approaches which use Kinect SDK built-in functions and generate RGB
 According to Kinect for Windows SDK 2.0, individual machines are required for each separate Kinect V2 device. Although other libraries such as [libfreenect2](https://github.com/OpenKinect/libfreenect2) allows to connect two devices to a powerful machine with separate USB3 buses, it decreases the frame rate and it also does not provide the body skeleton data, which could be necessary for some applications. Therefore, the system uses two Windows machines which have been locally connected via TCP/IP protocol. Machines system time are synchronised using NTP.
 
 
-##Hardware and software Requirements
+##Hardware and Software Requirements
 
 The source code requires the following equipment and libraries to perform:
 
