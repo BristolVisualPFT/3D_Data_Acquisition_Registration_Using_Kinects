@@ -20,3 +20,4 @@ The source code requires the following equipment and libraries to perform:
 + Kinect for Windows SDK 2.0 (Free Comercial License)
 + Intel Threading Building Blocks (GPLv2 License)
 + OpenCV (BSD License)
++ [Network Time Protocol](https://github.com/ntp-project/ntp)
