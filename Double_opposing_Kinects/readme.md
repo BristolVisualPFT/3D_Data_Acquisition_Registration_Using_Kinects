@@ -20,4 +20,4 @@ The source code requires the following equipment and libraries to perform:
 + [Kinect for Windows SDK 2.0](https://www.microsoft.com/en-gb/download/details.aspx?id=44561)
 + [Intel Threading Building Blocks](https://www.threadingbuildingblocks.org/software-release/tbb4320140724oss)
 + [OpenCV](https://github.com/opencv/opencv)
-+ [Network Time Protocol](https://github.com/ntp-project/ntp)
++ [Network Time Protocol(NTP)](https://github.com/ntp-project/ntp)
