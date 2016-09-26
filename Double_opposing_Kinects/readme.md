@@ -35,10 +35,17 @@ After RGB, depth and skeleton (optional) data are acquired and stored on each ma
 NTP is a network time protocol which is used for synchronising a machine system time with internal or external servers. A Windows (32-64bit) compatible version can be downloaded from [**here**](https://www.meinbergglobal.com/english/sw/ntp.htm). The software must be installed on both client and sever machines and their INI files should be configured such that the client machine system time would be synchronised with the server. For more informtion about the synchronisation, please refer to this [**guidance**](https://www.meinbergglobal.com/english/sw/readme-ntpinstaller.htm). There is also an [**NTP Time Server Monitor**](https://www.meinbergglobal.com/english/sw/ntp-server-monitor.htm) application which can be used for easier configuring of the INI files.
 
 
-##In Summary
-1. 
-2. 
-
+##Summary
+In summary, you must take the following steps to be able to run the source codes and generate and register the RGB point clouds:
+1. Setup Kinects facing each
+2. Locally network and synchronise machines time using NTP
+3. Calibrate Kinects
+  1. Setup three double-sided chessboards
+  2. Capture infrared/depth data frames using Calibrator
+4. Capture RGB, depth and skeleton (optional) using both machines by running
+ * Client-Acquisition
+ * Server-Acquisition
+5. Generate and register RGB point clouds using Registration source code.
 ##Publication
 If you use any form of this source code in your research, kindly cite the following paper.
 
