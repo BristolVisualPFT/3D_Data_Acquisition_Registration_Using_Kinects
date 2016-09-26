@@ -19,7 +19,7 @@ The source code requires the following equipment and libraries to perform:
 + Three double sided chessboards ([preparation instructions](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Double_sided_chessboard))
 + [Kinect for Windows SDK 2.0](https://www.microsoft.com/en-gb/download/details.aspx?id=44561)
 + Microsoft Visual Studio C++
-+ Matlab 2015b
++ Matlab 2015b or newer
 + [Intel Threading Building Blocks](https://www.threadingbuildingblocks.org/software-release/tbb4320140724oss)
 + [OpenCV](https://github.com/opencv/opencv)
 + [Network Time Protocol(NTP)](https://github.com/ntp-project/ntp)
