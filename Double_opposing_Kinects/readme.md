@@ -46,6 +46,8 @@ In summary, you must take the following steps to be able to run the source codes
  * Client-Acquisition
  * Server-Acquisition
 5. Generate and register RGB point clouds using Registration source code.
+
+
 ##Publication
 If you use any form of this source code in your research, kindly cite the following paper.
 
