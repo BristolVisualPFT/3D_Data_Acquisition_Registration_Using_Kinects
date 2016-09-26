@@ -31,7 +31,7 @@ The system requires the following libraries to perform:
 + [OpenCV](https://github.com/opencv/opencv)
 
 ##License
-This code is licensed under MIT license, which mean you can modify and use for any purposes. But, the third party libraries have different licenses.
+This code is licensed under MIT license, which means you can modify and use for any purpose. But, the third party libraries have different licenses.
 + Kinect for Windows SDK 2.0 (Free Commercial License)
 + Intel Threading Building Blocks (GPLv2 License)
 + OpenCV (BSD License)
