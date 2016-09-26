@@ -6,7 +6,7 @@
 ##Introduction
 This application is able to acquire, visualise (on-line) and record RGB, depth and skeleton data frames at 30fps and provides RGB, depth and body Meta data which can be used to synchronise RGB, depth and body data. It is a Windows form-based application and completely implemented in C++ using Microsoft Visual Studio 2012. We have also used third party libraries which are explained in Dependencies section.
  
-If you use any form of this source code in your research, kindly cite [1].
+**If you use any form of this source code in your research, kindly cite [1].**
 
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/22081195/18792882/3f01c72e-81b0-11e6-864e-0967ac98120f.png" width=300>
