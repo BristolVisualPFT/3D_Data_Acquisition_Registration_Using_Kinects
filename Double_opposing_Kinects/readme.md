@@ -24,7 +24,7 @@ The source code requires the following equipment and libraries to perform:
 
 
 ##Calibration
-First, two Kinects must be calibrated against each other to find the parameters of rigid transformation. These parameters are then exploited in the registration step. For this, after putting the two Kinects opposing each other within a desire distance between them (>2m), three double-sided chessboard are set up in between two Kinects and in different depths. However, all of the chessboards should be completely in two Kinects field of view. Since the calibration scene is static, the machines don't need to be synchronised. But, synchronisation is a vital step in the registration stage. The estimation of rigid transformation parameters has been explained in the published paper [1].
+First, two Kinects must be calibrated against each other to find the parameters of rigid transformation. These parameters are then exploited in the registration step. For this, after putting the two Kinects opposing each other within a desire distance between them (>2m), three double-sided chessboard are set up in between two Kinects and in different depths. However, all of the chessboards should be completely in the field of view of two Kinects. Since the calibration scene is static, the machines don't need to be synchronised. But, synchronisation is a vital step in the registration stage. The calibration method has been completely explained in [1].
 
 
 
