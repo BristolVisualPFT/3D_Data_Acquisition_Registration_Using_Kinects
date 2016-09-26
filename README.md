@@ -38,7 +38,7 @@ This code is licensed under MIT license, which means you can modify and use for 
 
 
 ##Do You Need Help?
-The system methodology has been described in our paper [1]. But, if you have any question or suggestion, please feel free to contact me by email: vahid [dot] soleimani [at] bristol [dot] ac [dot] uk
+Source codes compilation and running directions have been explained in details, in their dedicated sub-repositories. Further, the system methodology has been illustrated in our paper [1]. But, if you have any question or suggestion, please feel free to contact me by email: vahid [dot] soleimani [at] bristol [dot] ac [dot] uk .
 
 
 ##Publication
