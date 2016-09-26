@@ -37,7 +37,7 @@ NTP is a network time protocol which is used for synchronising a machine system 
 
 
 ##Summary
-In summary, you must take the following steps to be able to run the source codes and generate and register the RGB point clouds:
+In summary, you must take the following steps to be able to run the source codes and generate and register 3D RGB point clouds:
 
 1. Setup opposing Kinects
 2. Locally network and synchronise machines time using NTP
