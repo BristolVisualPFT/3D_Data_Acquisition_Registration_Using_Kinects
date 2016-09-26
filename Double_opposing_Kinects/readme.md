@@ -23,11 +23,8 @@ The source code requires the following equipment and libraries to perform:
 + [Network Time Protocol(NTP)](https://github.com/ntp-project/ntp)
 
 
-##Calibration
-First, two Kinects must be calibrated against each other to find the parameters of rigid transformation. These parameters are then exploited in the registration step. For this, after putting the two Kinects opposing each other within a desire distance between them (>2m), three double-sided chessboards are set up in between two Kinects and in different depths. However, all of the chessboards should be completely in the field of view of two Kinects. Since the calibration scene is static, the machines don't need to be synchronised. But, synchronisation is a vital step in the registration stage. The calibration method has been completely explained in [1]. A pair of infrared/depth image obtained from each Kinect is required for calibration. This data is captured by [Calibrator](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Calibrator) tool which has been discribed in its repository. 
-
-##Registration
-
+##Calibration and Registration
+First, two Kinects must be calibrated against each other to find the parameters of rigid transformation. These parameters are then exploited in the registration step. For this, after putting the two Kinects opposing each other within a desire distance between them (>2m), three double-sided chessboards are set up in between two Kinects and in different depths. However, all of the chessboards should be completely in the field of view of two Kinects. Since the calibration scene is static, the machines don't need to be synchronised. But, synchronisation is a vital step in the registration stage. The calibration method has been completely explained in [1]. A pair of infrared/depth images obtained from each Kinect is required for calibration. This data is captured by [Calibrator](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Calibrator). 
 
 
 
