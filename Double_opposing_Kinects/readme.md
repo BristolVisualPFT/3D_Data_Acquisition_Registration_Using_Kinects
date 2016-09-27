@@ -15,7 +15,7 @@ According to Kinect for Windows SDK 2.0, individual machines are required for ea
 
 The source code requires the following equipment and libraries to perform:
 
-+ Two second generation of Kinect for Windows
++ Two Kinects (second generation) for Windows
 + Two Kinect-compatible Windows (8.1 or 10) PCs or laptops
 + Three double sided chessboards ([preparation instructions](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Double_sided_chessboard))
 + [Kinect for Windows SDK 2.0](https://www.microsoft.com/en-gb/download/details.aspx?id=44561)
