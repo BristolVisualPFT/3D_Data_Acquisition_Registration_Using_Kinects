@@ -49,7 +49,7 @@ In summary, you must take the following steps to be able to run the source codes
  2. Generate and register RGB point clouds using [Registration](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Registration) source code.
 
 ##Do You Need Help?
-Compilation and running directions of the source codes have been explained in details, in their dedicated sub-repositories. Further, the system methodology has been illustrated in our paper [1]. But, if you have any question or suggestion, please feel free to contact me by email: vahid [dot] soleimani [at] bristol [dot] ac [dot] uk .
+Compilation and running directions of the source codes have been explained in details, in their dedicated sub-repositories. Further, the system methodology has been explained in our paper [1]. But, if you have any question or suggestion, please feel free to contact me by email: vahid [dot] soleimani [at] bristol [dot] ac [dot] uk .
 
 
 ##Publication
