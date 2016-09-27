@@ -40,7 +40,7 @@ NTP is a network time protocol which is used for synchronising a machine system 
 In summary, you must take the following steps to be able to run the source codes and generate and register 3D RGB point clouds:
 
 1. Setup two opposing Kinects
-2. Locally network and synchronise Server and Client machines time using NTP
+2. Locally network and synchronise server and client machines time using NTP
 3. Calibrate Kinects
   1. Setup three double-sided chessboards
   2. Capture infrared/depth data frames using [Calibrator](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Calibrator)
