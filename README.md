@@ -8,7 +8,7 @@
 ##Introduction
 This is an open source implementation of **"3D data acquisition and registration using two opposing Kinects"** [1]. This system has been designed for acquiring and recording RGB, depth and skeleton data frames of two Kinects, and registering their RGB point clouds into a joint coordinate system.
 
-To make the users life easier, we have adapted the code for either a single Kinct configuration or the double Kinect configurations.
+To make users life easier, we have adapted the code for either a single Kinct configuration or the double Kinect configurations.
 
 **If you use any form of this source code in your research, kindly cite [1].**
 
