@@ -33,7 +33,7 @@ This code is licensed under MIT license, which mean you can modify and use for a
 
 
 ##Do You Need Help?
-Compilation and running directions of the source codes have been explained in details, in their dedicated sub-repositories. Further, the system methodology has been illustrated in our paper [1]. But, if you have any question or suggestion, please feel free to contact me by email: vahid [dot] soleimani [at] bristol [dot] ac [dot] uk .
+Compilation and running directions of the source codes have been explained in details, in their dedicated sub-repositories. Further, the system methodology has been explained in our paper [1]. But, if you have any question or suggestion, please feel free to contact me by email: vahid [dot] soleimani [at] bristol [dot] ac [dot] uk .
 
 
 ##Publication
