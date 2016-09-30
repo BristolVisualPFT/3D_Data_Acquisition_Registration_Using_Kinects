@@ -16,7 +16,7 @@ The required hardware and software resources, necessary libraries and their depe
 
 
 <h3 align="center">Click on the image to open the pdf </h3>
-[![ttt](https://cloud.githubusercontent.com/assets/22081195/18952089/4f299a16-8640-11e6-9f8f-1885eddedd36.png)](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/files/500509/How_it_works.pdf)
+[![ttt](https://cloud.githubusercontent.com/assets/22081195/18995330/a22f3bb0-8723-11e6-8248-f0fffc45c5f1.png)](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/files/503172/KinectAcquisition_How_does_it_work.pdf)
 
 
 ##Dependencies
