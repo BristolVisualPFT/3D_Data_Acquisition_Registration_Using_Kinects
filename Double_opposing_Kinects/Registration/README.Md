@@ -2,9 +2,6 @@
 #RGB Point Clouds Alignment and Registration
 ----------------------------------------------
 
-<p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/22081195/19001694/63fb6b08-8740-11e6-8afc-8ff750eb27d3.gif">
-</p>
 
 
 ##Introduction
