@@ -1,5 +1,5 @@
 ----------------------------------------------
-#RGB Point Clouds Registration and Acquisition
+#RGB Point Clouds Registration
 ----------------------------------------------
 ##Introduction
 
