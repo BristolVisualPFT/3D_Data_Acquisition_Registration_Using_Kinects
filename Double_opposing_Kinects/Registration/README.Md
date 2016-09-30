@@ -1,5 +1,5 @@
 ----------------------------------------------
-#RGB Point Clouds Registration
+#RGB Point Clouds Alignment and Registration
 ----------------------------------------------
 ##Introduction
 
