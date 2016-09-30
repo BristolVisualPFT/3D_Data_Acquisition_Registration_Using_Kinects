@@ -14,8 +14,9 @@ This application is able to acquire, visualise (on-line) and record RGB, depth a
 ##Compilation and Running
 The required hardware and software resources, necessary libraries and their dependencies establishment, the application specification and details, and format of its output data are described in:
 
+<h2 style="color: blue">CatPhotoApp</h2>
 
-<h3 align="center">Click on the image to open the pdf </h3>
+<h4 align="center"> <b>Click on the image to open the pdf </b></h4>
 [![ttt](https://cloud.githubusercontent.com/assets/22081195/18995330/a22f3bb0-8723-11e6-8248-f0fffc45c5f1.png)](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/files/503172/KinectAcquisition_How_does_it_work.pdf)
 
 
