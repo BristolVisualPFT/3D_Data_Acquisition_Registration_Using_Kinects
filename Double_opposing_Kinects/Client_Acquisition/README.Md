@@ -22,7 +22,7 @@ The required hardware and software resources, necessary libraries and their depe
    Click on the image to open the guidance document
    <img src="https://cloud.githubusercontent.com/assets/22081195/18995638/f2690506-8724-11e6-9bb2-3f2028f5bb49.png" width=30> 
 </h3>
-[![ttt](https://cloud.githubusercontent.com/assets/22081195/18998836/4cf42a16-8732-11e6-858d-b06e80d71645.png)](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/files/503390/ClientAcquisition_How_does_it_work.pdf)
+[![ttt](https://cloud.githubusercontent.com/assets/22081195/18999403/4b1ee9a8-8735-11e6-9492-474e833d32ea.png)](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/files/503422/ClientAcquisition_How_does_it_work.pdf)
 
 
 ##Dependencies
