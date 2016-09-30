@@ -2,8 +2,8 @@
 #Kinect Calibration Data Acquisition
 -------------------------------------
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/22081195/18998120/23018c92-872f-11e6-8609-5eeb6290aa98.png">
-  <img src="https://cloud.githubusercontent.com/assets/22081195/18998130/29c86442-872f-11e6-9699-09c03a1f3faf.png">
+  <img src="https://cloud.githubusercontent.com/assets/22081195/18998120/23018c92-872f-11e6-8609-5eeb6290aa98.png" width=150>
+  <img src="https://cloud.githubusercontent.com/assets/22081195/18998130/29c86442-872f-11e6-9699-09c03a1f3faf.png" width=150>
 </p>
 ##Introduction
 This application is used to acquire, visualise (on-line) and record RGB, infrared, depth and skeleton data frames at 30fps and provides RGB, infrared, depth and body Meta data which can be used to synchronise RGB, depth and body data. It is very similar to the **[Single Kinect Data Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Single_Kinect)**. But, it can also acquire the infrared data frames which must be used for estimating the calibration parameters. This is a Windows form-based application and completely implemented in C++ using Microsoft Visual Studio 2012. We have also used third party libraries which are explained in Dependencies section.
