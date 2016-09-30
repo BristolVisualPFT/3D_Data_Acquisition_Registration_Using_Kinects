@@ -43,9 +43,9 @@ In summary, you must take the following steps to be able to run the source codes
 2. Locally network and synchronise server and client machines time using NTP
 3. Calibrate Kinects
   1. Setup three double-sided chessboards
-  2. Capture infrared/depth data using both machines by [Calibration_Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Calibration_Acquisition)
+  2. Acquire infrared/depth data using both machines by [Calibration_Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Calibration_Acquisition)
 4. Register point clouds
- 1. Capture RGB, depth and skeleton (optional) data by [Client_Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Client_Acquisition) and [Server_Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Server_Acquisition)
+ 1. Acquire RGB, depth and skeleton (optional) data by [Client_Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Client_Acquisition) and [Server_Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Server_Acquisition)
  2. Generate and register RGB point clouds using [Registration](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Registration) source code.
 
 ##Do You Need Help?
