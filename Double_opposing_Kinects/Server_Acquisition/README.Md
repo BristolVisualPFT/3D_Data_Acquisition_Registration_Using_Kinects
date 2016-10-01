@@ -5,7 +5,7 @@
 
 ##Introduction
 
-This application is able to acquire, visualise (on-line) and record RGB, depth and skeleton data frames at 30fps and provides RGB, depth and body Meta data which can be used to synchronise RGB, depth and body data. It is a Windows form-based application and completely implemented in C++ using Microsoft Visual Studio 2012. We have also used third party libraries which are explained in Dependencies section.
+This is a modified version of  **[Single Kinect Data Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Single_Kinect)** software, which has been adapted to communicate with and instruct **[Client Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Client_Acquisition)** software through a TCP/IP local network. This software has been dsigned to used along with the **[Client Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Client_Acquisition)** and cannot be used on its own. It is able to acquire, visualise (on-line) and record RGB, depth and skeleton data frames at _30fps_ and provides RGB, depth and body Meta data. The software features and its output specifications along with the compilation directions have been explained in the guidance document under **Compilation and Running** Section. This is a Windows form-based application and completely implemented in C++ using Microsoft Visual Studio 2012. We have also used third party libraries which are explained in **Dependencies** Section.
  
 **If you use any form of this source code in your research, kindly cite [1].**
 
