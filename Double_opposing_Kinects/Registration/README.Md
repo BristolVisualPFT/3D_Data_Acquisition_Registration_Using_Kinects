@@ -6,6 +6,9 @@
 
 ##Introduction
 
+This source code is generate RGB point clouds from the pre-recorded RGB and depth data frames which have been recorded using **[Client Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Client_Acquisition)** and **[Server Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Server_Acquisition)** applications. It synchronise and align RGB and depth frames in each Kinect and also matches corresponding data frames between two Kinects. Further, using the recorded calibration data (double-sided chessboards), this source code estimate the rigid transformation parameters, i.e. rotation and translation matrices and use them for registering the data recorded by **[Client Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Client_Acquisition)** and **[Server Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Server_Acquisition)** applications.
+
+
 
 **If you use any form of this source code in your research, kindly cite [1].**
 
