@@ -15,7 +15,7 @@ This application is used to acquire, visualise (on-line) and record RGB, infrare
   <img src="https://cloud.githubusercontent.com/assets/22081195/18997867/33005e9e-872e-11e6-9816-73aef75130bf.png" width=300>
 </p>
 ##Compilation and Running
-The required hardware and software resources, necessary libraries and their dependencies establishment, the application specification and details, and format of its output data are described in:
+The required hardware and software resources, necessary libraries and their dependencies establishment, the application specification and details, and format of its output data are described in the following guidance document.
 
 
 
