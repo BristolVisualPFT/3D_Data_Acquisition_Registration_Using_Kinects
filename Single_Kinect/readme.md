@@ -4,7 +4,7 @@
 ![rgb_depth_skel_sel](https://cloud.githubusercontent.com/assets/22081195/18792861/20a91bf6-81b0-11e6-9d02-8df6653204bd.png)
 
 ##Introduction
-This application is able to acquire, visualise (on-line) and record RGB, depth and skeleton data frames at _30fps_ and provides RGB, depth and body Meta data which can be used to synchronise RGB, depth and body data. It is a Windows form-based application and completely implemented in C++ using Microsoft Visual Studio 2012. We have also used third party libraries which are explained in Dependencies section.
+This application is able to acquire, visualise (on-line) and record RGB, depth and skeleton data frames at _30fps_ and provides RGB, depth and body Meta data which can be used to synchronise RGB, depth and body data. It is a Windows form-based application and completely implemented in C++ using Microsoft Visual Studio 2012. We have also used third party libraries which are explained in **Dependencies** section.
  
 **If you use any form of this source code in your research, kindly cite [1].**
 
@@ -12,7 +12,7 @@ This application is able to acquire, visualise (on-line) and record RGB, depth a
   <img src="https://cloud.githubusercontent.com/assets/22081195/18995257/5d4c582a-8723-11e6-9e03-c52f5ba004d1.png" width=300>
 </p>
 ##Compilation and Running
-The required hardware and software resources, necessary libraries and their dependencies establishment, the application specification and details, and format of its output data are described in:
+The required hardware and software resources, necessary libraries and their dependencies establishment, the application specification and details, and format of its output data are described in the following guidance document.
 
 
 
