@@ -7,7 +7,7 @@
   <img src="https://cloud.githubusercontent.com/assets/22081195/18998140/2dd54870-872f-11e6-9205-b0c686ede193.png" width=700>
 </p>
 ##Introduction
-This application is used to acquire, visualise (on-line) and record RGB, infrared, depth and skeleton data frames at _30fps_ and provides RGB, infrared, depth and body Meta data which can be used to synchronise RGB, depth and body data. It is very similar to the **[Single Kinect Data Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Single_Kinect)**, however, it can also acquire the infrared data frames which must be used for estimating the calibration parameters. This is a Windows form-based application and completely implemented in C++ using Microsoft Visual Studio 2012. We have also used third party libraries which are explained in Dependencies section.
+This application is used to acquire, visualise (on-line) and record RGB, infrared, depth and skeleton data frames at _30fps_ and provides RGB, infrared, depth and body Meta data which can be used to synchronise RGB, depth and body data. It is very similar to the **[Single Kinect Data Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Single_Kinect)**, however, it can also acquire the infrared data, which must be used for estimating the calibration parameters. This is a Windows form-based application and completely implemented in C++ using Microsoft Visual Studio 2012. We have also used third party libraries which are explained in Dependencies section.
  
 **If you use any form of this source code in your research, kindly cite [1].**
 
