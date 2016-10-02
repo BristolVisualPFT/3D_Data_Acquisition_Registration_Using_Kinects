@@ -13,7 +13,7 @@ This package is able to generate RGB point clouds of two Kinects using the pre-r
 **If you use any form of this source code in your research, kindly cite [1].**
 
 ##Compilation and Running
-The package contains several functions in separate Matlab M files, which are required for synchronisation, alignment and registration of point clouds. To help useres understand how to run and use the source code, an example has been provided. In this example, after downloading [**this sample RGBD data**](https://drive.google.com/file/d/0BxUVE0cBp62XRkFwWTdtTUlZc2M/view?usp=sharing), useres needs to run "compute_R_T.m" and "two_point_clouds_registration.m" M files sequentially. 
+The package contains several functions in separate Matlab M files, which are required for synchronisation, alignment and registration of point clouds. To help useres understand how to run and use the source code, an example has been provided. In this example, after downloading [**this sample RGBD data**](https://drive.google.com/file/d/0BxUVE0cBp62XRkFwWTdtTUlZc2M/view?usp=sharing) and extracting it, "compute_R_T.m" and "two_point_clouds_registration.m" M files must be run. By executing "compute_R_T.m" at first, the rotation and transformation matrices are computed and are used in alignment which is performed by running "two_point_clouds_registration.m". Note that the "data_path" variable in both M files must be initialised with the name of downloaded RGBD data main folder name, which here is named "sample_rgbd_data".
 
 ##Dependencies
 You need only Matlab 2015b or later versions for compiling and running this source code.
