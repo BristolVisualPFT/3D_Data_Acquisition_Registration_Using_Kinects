@@ -21,7 +21,7 @@ The source code requires the following equipment and libraries to perform:
 
 + Two Kinects (second generation) for Windows
 + Two Kinect-compatible Windows (8.1 or 10) PCs or laptops
-+ Three double sided chessboards ([preparation instructions](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Double_sided_chessboard))
++ Three double sided chessboards ([preparation instructions](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Double_sided_chessboards))
 + [Kinect for Windows SDK 2.0](https://www.microsoft.com/en-gb/download/details.aspx?id=44561)
 + Microsoft Visual Studio C++
 + Matlab 2015b or later
