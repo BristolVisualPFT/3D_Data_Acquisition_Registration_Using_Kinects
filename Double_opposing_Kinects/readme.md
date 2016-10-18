@@ -1,6 +1,9 @@
 -----------------------------------------------
 #3D Data Acquisition and Registration Using Two Opposing Kinects
 -----------------------------------------------
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/22081195/19001689/5eca2bce-8740-11e6-87a8-b11b086f9d3b.gif" width=600>
+</p>
 
 ##Introduction
 This system has been developed to calibrate two opposing Kinects V2 RGBD sensors using an optical approach and register their point clouds to a joint space [1]. It contains calibration, acquisition and registration parts and has been implemented in C++ (Microsoft Visual Studio 2012) and Matlab. We have also used third party libraries explained in **Hardware and Software Requirements** section. Compilation directions and running instructions have been explained in each related sub-repository, i.e. **Calibration_Acquisition**, **Client_Acquisition**, **Server_Acquisition** and **Registration**.
