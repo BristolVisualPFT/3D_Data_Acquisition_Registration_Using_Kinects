@@ -60,3 +60,6 @@ If you use any form of this source code in your research, kindly cite the follow
 
 [1] V. Soleimani, M. Mirmehdi, D.Damen, S. Hannuna, M. Camplani, "3D Data Acquisition and Registration Using Two Opposing Kinects", International Conference on 3D Vision, Stanford, USA, October 2016.
 
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/22081195/19785457/560e5e72-9c91-11e6-9e0b-de685185675a.png" width=800>
+</p>
