@@ -1,5 +1,5 @@
 -----------------------------------------------------------------
-# 3D Data Acquisition and Registration using Opposing Kinects#
+# 3D Data Acquisition and Registration using Opposing Kinects #
 -----------------------------------------------------------------
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/22081195/19001689/5eca2bce-8740-11e6-87a8-b11b086f9d3b.gif" width=600>
