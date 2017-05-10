@@ -23,6 +23,7 @@ The required hardware and software resources, necessary libraries and their depe
    <img src="https://cloud.githubusercontent.com/assets/22081195/18995638/f2690506-8724-11e6-9bb2-3f2028f5bb49.png" width=30> 
 </h3>
 
+[![ttt](https://cloud.githubusercontent.com/assets/22081195/18999041/7678c422-8733-11e6-8274-48d21e3ff2f9.png)](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/files/503407/KinectAcquisition_How_does_it_work.pdf)
 
 
 
