@@ -11,6 +11,8 @@ This application is able to acquire, visualise (on-line) and record RGB, depth a
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/22081195/18995257/5d4c582a-8723-11e6-9e03-c52f5ba004d1.png" width=300>
 </p>
+
+
 ## Compilation and Running
 The required hardware and software resources, necessary libraries and their dependencies establishment, the application specification and details, and format of its output data are described in the following guidance document.
 
