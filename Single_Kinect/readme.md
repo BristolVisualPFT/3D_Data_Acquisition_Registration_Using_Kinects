@@ -16,11 +16,6 @@ The required hardware and software resources, necessary libraries and their depe
 
 
 
-<p align="center"> 
-   <img src="https://cloud.githubusercontent.com/assets/22081195/18995638/f2690506-8724-11e6-9bb2-3f2028f5bb49.png" width=30>
-   Click on the image to open the guidance document
-   <img src="https://cloud.githubusercontent.com/assets/22081195/18995638/f2690506-8724-11e6-9bb2-3f2028f5bb49.png" width=30> 
-</p>
 
 
 ## Dependencies
