@@ -1,9 +1,9 @@
 -------------------------------------
-#Kinect Client Data Acquisition
+# Kinect Client Data Acquisition
 -------------------------------------
 ![rgb_depth_skel_sel](https://cloud.githubusercontent.com/assets/22081195/18792861/20a91bf6-81b0-11e6-9d02-8df6653204bd.png)
 
-##Introduction
+## Introduction
 This is a modified version of  **[Single Kinect Data Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Single_Kinect)** software, which has been adapted to communicate with **[Server Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Server_Acquisition)** software through a TCP/IP local network. This software must be used along with **[Server Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Server_Acquisition)** and can not be used stand alone. It is able to acquire, visualise (on-line) and record RGB, depth and skeleton data frames at _30fps_ and provides RGB, depth and body Meta data. However, the record and view options are set by **[Server Acquisition](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Double_opposing_Kinects/Server_Acquisition)** and user is not allowed to change them and they are set by **Server Acquisition** at the beginning of capture. There is also an option to input the server IP address for network communications. The software features and its output specifications along with the compilation directions have been explained in the guidance document under **Compilation and Running** Section. This is a Windows form-based application and completely implemented in C++ using Microsoft Visual Studio 2012. We have also used third party libraries which are explained in **Dependencies** Section.
  
 **If you use any form of this source code in your research, kindly cite [1].**
@@ -11,7 +11,8 @@ This is a modified version of  **[Single Kinect Data Acquisition](https://github
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/22081195/18998819/30040098-8732-11e6-9212-12faf1958d37.png" width=300>
 </p>
-##Compilation and Running
+
+## Compilation and Running
 The required hardware and software resources, necessary libraries and their dependencies establishment, the application specification and details, and format of its output data are described in the following guidance document.
 
 
@@ -21,27 +22,28 @@ The required hardware and software resources, necessary libraries and their depe
    Click on the image to open the guidance document
    <img src="https://cloud.githubusercontent.com/assets/22081195/18995638/f2690506-8724-11e6-9bb2-3f2028f5bb49.png" width=30> 
 </h3>
+
 [![ttt](https://cloud.githubusercontent.com/assets/22081195/18999403/4b1ee9a8-8735-11e6-9492-474e833d32ea.png)](https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/files/503422/ClientAcquisition_How_does_it_work.pdf)
 
 
-##Dependencies
+## Dependencies
 The system requires the following libraries to perform:
 + [Kinect for Windows SDK 2.0](https://www.microsoft.com/en-gb/download/details.aspx?id=44561)
 + [Intel Threading Building Blocks](https://www.threadingbuildingblocks.org/software-release/tbb4320140724oss)
 + [OpenCV](https://github.com/opencv/opencv)
 
-##License
+## License
 This code is licensed under MIT license, which means you can modify and use for any purposes. But, the third party libraries have different licenses.
 + Kinect for Windows SDK 2.0 (Free Commercial License)
 + Intel Threading Building Blocks (GPLv2 License)
 + OpenCV (BSD License)
 
 
-##Do You Need Help?
+## Do You Need Help?
 Compilation and running directions of the source codes have been explained in details, in guidance document under **Compilation and Running** Section. Further, the system methodology has been explained in our paper [1]. But, if you have any question or suggestion, please feel free to contact me by email: vahid [dot] soleimani [at] bristol [dot] ac [dot] uk .
 
 
-##Publication
+## Publication
 If you use any form of this source code in your research, kindly cite the following paper.
 
 [1] V. Soleimani, M. Mirmehdi, D.Damen, S. Hannuna, M. Camplani, "3D Data Acquisition and Registration Using Two Opposing Kinects", _International Conference on 3D Vision_, Stanford, USA, October 2016.
